@@ -6,6 +6,6 @@ class Addition{
         int sub=a-b;
 
         System.out.println("sum= "+sum);
-        System.out.println("sub= "-sub);
+        System.out.println("sub= "+sub);
     }
 }
